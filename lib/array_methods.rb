@@ -9,7 +9,7 @@ nil
 end
 
 def find_max_value(array)
-  array.max do |element|
+  array.length.times do |max|
   array(find_max_value)
 end
   
