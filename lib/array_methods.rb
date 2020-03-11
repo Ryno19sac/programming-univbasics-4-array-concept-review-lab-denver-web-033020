@@ -9,8 +9,8 @@ nil
 end
 
 def find_max_value(array)
-  array.length.times do {|index|
-  array(find_max_value)
+  array.length.times  {|index|
+  if array[index] > 1 
 end
   
 end
